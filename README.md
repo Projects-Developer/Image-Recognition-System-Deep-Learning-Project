@@ -1,4 +1,4 @@
-# Image-Recognition-System-Deep-Learning-Project
+# Image Recognition System Deep Learning Project
 ### The Image Recognition System is a deep learning project with code, documents and video tutorial
 ![fake review (1)](https://github.com/user-attachments/assets/02d8f67a-a7d9-4a60-aca1-008acb451a3c)
 
